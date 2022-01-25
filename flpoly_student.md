@@ -1,27 +1,27 @@
-## First Name Last Name
+## Nicholas Hill
 
-### Term Year 
+### 2021-2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- LAW, PUBLIC POLICY, NEGOTIATION, AND BUSINESS
 
-- Course 3
+- COMPUTER INFORMATION TECHNOLOGY AND APPLICATIONS
 
-- Course 4
+- Statistics 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Writing as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/25
